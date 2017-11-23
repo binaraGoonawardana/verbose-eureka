@@ -1,2 +1,2 @@
-"{version}".format(version="0.0.1")
+"{version}".format(version="0.0.2")
 
